@@ -4,8 +4,8 @@ Backend case study – Movie Booking Platform
 
 Client
   ↓
-SeatLockController (REST API)
+SeatLockController
   ↓
-SeatLockService (Business Logic)
+SeatLockService
   ↓
-Seat Lock Store (In-Memory)
+Seat Lock Store
